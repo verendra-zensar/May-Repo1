@@ -10,3 +10,5 @@ let sum=() => x+y;
 
 
 console.log(`the sun of ${x} and ${y} is ${sum}`)
+
+console.log(`hello git hub`);
